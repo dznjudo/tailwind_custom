@@ -2,7 +2,7 @@
  @tailwind base;
  @tailwind components;
  @tailwind utilities;
- @import 'av-design-tokens/src/build/css/variables.css';
+ @import '@availity/design-tokens/dist/css/variables.css';
 
 body {
   margin: 0;
